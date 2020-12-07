@@ -1,2 +1,2 @@
 # Hangman-Game
-This program keeps track of the state of a game of hangman
+This program keeps track of the state of a game of hangman. In a normal game of hangman, the computer picks a word that the user is supposed to guess.  In this game of hangman, the computer is going to delay picking a word until it is forced to.  As a result, at any given point in time there will be a set of words that are currently being used by the computer.  Each of those words will have the same pattern to be displayed to the user. 
